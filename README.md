@@ -1,4 +1,4 @@
-# EMT-N-RMT
+# multicell-emt
 
 A simulation tool for the core circuit in Epithelial-Mesenchymal Transition (EMT) modeling, using numerical relay methods.
 
